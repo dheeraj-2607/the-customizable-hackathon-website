@@ -1,0 +1,11 @@
+{
+  "title": "makemu26",
+  "description": "This platform facilitates a 24-hour hackathon experience, enabling teams to transform ideas into viable products through structured collaboration and feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
